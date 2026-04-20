@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Endowments & Foundations RFP Directory</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Endowments & Foundations RFP Directory</h1>
+    <p class="subtitle">Foundations with publicly available Requests for Proposals (RFPs)</p>
+  </header>
+
+  <main>
+    <section class="controls">
+      <div class="control-group">
+        <label for="search">Search by organization name</label>
+        <input id="search" type="search" placeholder="Type to filter..." />
+      </div>
+      <div class="control-group">
+        <label for="aum-filter">Filter by AUM</label>
+        <select id="aum-filter">
+          <option value="all">All</option>
+          <option value="0-25">Under $25M</option>
+          <option value="25-50">$25M – $50M</option>
+          <option value="50-100">$50M – $100M</option>
+          <option value="100-250">$100M – $250M</option>
+          <option value="250-500">$250M – $500M</option>
+          <option value="500-1000">$500M – $1B</option>
+          <option value="unknown">Unknown</option>
+        </select>
+      </div>
+      <div class="control-group">
+        <label for="status-filter">Filter by status</label>
+        <select id="status-filter">
+          <option value="all">All</option>
+          <option value="active">Active</option>
+          <option value="past">Past</option>
+          <option value="unknown">Unknown</option>
+        </select>
+      </div>
+      <div class="control-group">
+        <label for="discretion-filter">Filter by discretion</label>
+        <select id="discretion-filter">
+          <option value="all">All</option>
+          <option value="discretionary">Discretionary</option>
+          <option value="non-discretionary">Non-discretionary</option>
+          <option value="both">Either allowed</option>
+          <option value="unknown">Unknown</option>
+        </select>
+      </div>
+      <div class="stat">
+        <span class="stat-label">RFPs shown</span>
+        <span id="count" class="stat-value">0</span>
+      </div>
+    </section>
+
+    <table id="rfp-table">
+      <thead>
+        <tr>
+          <th data-sort="name" class="sortable">Organization</th>
+          <th data-sort="type" class="sortable">Type</th>
+          <th>Description</th>
+          <th data-sort="aum" class="sortable">AUM</th>
+          <th data-sort="discretion" class="sortable">Discretion</th>
+          <th data-sort="deadline" class="sortable">Deadline</th>
+          <th data-sort="status" class="sortable">Status</th>
+          <th>RFP</th>
+        </tr>
+      </thead>
+      <tbody id="rfp-tbody"></tbody>
+    </table>
+
+    <p id="empty-state" class="empty-state" hidden>No matching RFPs.</p>
+  </main>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
