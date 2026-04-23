@@ -17,7 +17,8 @@ window.ENDOWMENTS = [
     deadline: "2023-06-23",
     discretion: "unknown",
     rfpUrl: "https://www.cmcc.edu/wp-content/uploads/2023/06/2023-CMEF-RFP-Investment-Mgt.pdf",
-    rfpTitle: "Investment Management Services RFP (2023)"
+    rfpTitle: "Investment Management Services RFP (2023)",
+    imFees: 9325
   },
   {
     name: "Circle of Friends Humane Society",
@@ -37,7 +38,8 @@ window.ENDOWMENTS = [
     deadline: "2018-11-02",
     discretion: "discretionary",
     rfpUrl: "https://roccitylibrary.org/wp-content/uploads/RFP_Investment-Management_Library.pdf",
-    rfpTitle: "Investment Management and Custodial Services RFP (2018)"
+    rfpTitle: "Investment Management and Custodial Services RFP (2018)",
+    imFees: 12045
   },
   {
     name: "Philadelphia City Fund",
@@ -57,7 +59,8 @@ window.ENDOWMENTS = [
     deadline: "2017-08-14",
     discretion: "discretionary",
     rfpUrl: "https://ccccf.us/documents/rfp/Investment%20Asset%20Custodian%20RFP.pdf",
-    rfpTitle: "Investment Asset Custodian and Management RFP"
+    rfpTitle: "Investment Asset Custodian and Management RFP",
+    imFees: 31050
   },
   {
     name: "Alfred Street Baptist Church",
@@ -87,7 +90,8 @@ window.ENDOWMENTS = [
     deadline: "2018-08-17",
     discretion: "discretionary",
     rfpUrl: "https://www.morainevalley.edu/wp-content/uploads/2018/07/RFP-Investment-Foundation_July-2018.pdf",
-    rfpTitle: "Investment Management Services RFP (July 2018)"
+    rfpTitle: "Investment Management Services RFP (July 2018)",
+    imFees: 26716
   },
   {
     name: "Wasatch Homeless Healthcare (Fourth Street Clinic)",
@@ -107,7 +111,8 @@ window.ENDOWMENTS = [
     deadline: "2019-03-01",
     discretion: "unknown",
     rfpUrl: "https://www.ncfp.org/wp-content/uploads/2012/04/RFP-for-Community-Foundation-Invesment-Management-Services-CFGR-2019.pdf",
-    rfpTitle: "Investment Management Services RFP (2019)"
+    rfpTitle: "Investment Management Services RFP (2019)",
+    imFees: 78931
   },
   {
     name: "Chesapeake College Foundation",
@@ -127,7 +132,8 @@ window.ENDOWMENTS = [
     deadline: "2024-12-02",
     discretion: "non-discretionary",
     rfpUrl: "https://www.sjrstate.edu/bids2024/RFP2024_25-01.pdf",
-    rfpTitle: "Investment Management Services (RFP 2024-25-01)"
+    rfpTitle: "Investment Management Services (RFP 2024-25-01)",
+    imFees: 60744
   },
   {
     name: "Gaston College Foundation",
@@ -137,7 +143,8 @@ window.ENDOWMENTS = [
     deadline: "2023-09-01",
     discretion: "non-discretionary",
     rfpUrl: "https://www.gastoncollegefoundation.org/wp-content/uploads/sites/50/2023/07/GC-Foundation-RFP-Investment-Services-2023-Final.pdf",
-    rfpTitle: "Investment Management Services RFP (2023)"
+    rfpTitle: "Investment Management Services RFP (2023)",
+    imFees: 36427
   },
   {
     name: "Houston Community College Foundation",
@@ -147,7 +154,8 @@ window.ENDOWMENTS = [
     deadline: "2018-11-15",
     discretion: "non-discretionary",
     rfpUrl: "https://www.hccsfoundation.org/file/RFP-2018_Final2.pdf",
-    rfpTitle: "Investment Advisory and Custodial Management RFP (2018)"
+    rfpTitle: "Investment Advisory and Custodial Management RFP (2018)",
+    imFees: 74177
   },
   {
     name: "Southwestern Community College Foundation",
@@ -157,7 +165,8 @@ window.ENDOWMENTS = [
     deadline: null,
     discretion: "unknown",
     rfpUrl: "https://www.southwesterncc.edu/rfp-investment-management-services",
-    rfpTitle: "Investment Management Services RFP"
+    rfpTitle: "Investment Management Services RFP",
+    imFees: 29224
   },
   {
     name: "South Florida State College Foundation",
@@ -177,7 +186,8 @@ window.ENDOWMENTS = [
     deadline: "2019-01-04",
     discretion: "non-discretionary",
     rfpUrl: "https://www.ajlfoundation.org/sites/default/files/media/file/RequestforProposalsTheAJLCharitableFoundationInvestmentAdvisorSearchFINAL.pdf",
-    rfpTitle: "Investment Advisor Search RFP (2018)"
+    rfpTitle: "Investment Advisor Search RFP (2018)",
+    imFees: 71087
   },
   {
     name: "Victoria College Foundation",
@@ -187,7 +197,8 @@ window.ENDOWMENTS = [
     deadline: "2023-03-31",
     discretion: "both",
     rfpUrl: "https://www.victoriacollegefoundation.org/media/1368/vcf-investment-rfp.pdf",
-    rfpTitle: "Investment and Management Services RFP"
+    rfpTitle: "Investment and Management Services RFP",
+    imFees: 47711
   },
   {
     name: "Massachusetts College of Liberal Arts Foundation",
@@ -197,7 +208,8 @@ window.ENDOWMENTS = [
     deadline: "2022-09-09",
     discretion: "discretionary",
     rfpUrl: "https://www.mcla.edu/_pdfs/administration/procurement/RFP-for-Investment-Management-Services-V3.pdf",
-    rfpTitle: "Investment Management Services RFP"
+    rfpTitle: "Investment Management Services RFP",
+    imFees: 72020
   },
   {
     name: "ACT for Alexandria",
@@ -207,7 +219,8 @@ window.ENDOWMENTS = [
     deadline: "2021-10-29",
     discretion: "non-discretionary",
     rfpUrl: "https://www.actforalexandria.org/wp-content/uploads/2021/09/ACT-Investment-Consultant-RFP-FINAL.pdf",
-    rfpTitle: "Investment Consultant RFP (2021)"
+    rfpTitle: "Investment Consultant RFP (2021)",
+    imFees: 53684
   },
   {
     name: "Mt. Pleasant Area Community Foundation",
@@ -217,7 +230,8 @@ window.ENDOWMENTS = [
     deadline: "2018-06-04",
     discretion: "discretionary",
     rfpUrl: "https://www.mpacf.org/news/2018/4/2/foundation-rfp-for-investment-management-services",
-    rfpTitle: "Custody & Investment Management Services RFP"
+    rfpTitle: "Custody & Investment Management Services RFP",
+    imFees: 82875
   },
   {
     name: "Kentucky State University Foundation",
@@ -227,7 +241,8 @@ window.ENDOWMENTS = [
     deadline: "2024-08-08",
     discretion: "discretionary",
     rfpUrl: "https://www.kysu.edu/finance-and-administration/purchasing/RFP%20%2025-01%20Investment%20Management%20Services.pdf",
-    rfpTitle: "Investment Management Services (RFP 25-01)"
+    rfpTitle: "Investment Management Services (RFP 25-01)",
+    imFees: 95092
   },
   {
     name: "Salem State University Foundation",
@@ -247,7 +262,8 @@ window.ENDOWMENTS = [
     deadline: null,
     discretion: "non-discretionary",
     rfpUrl: "https://www.hplct.org/assets/uploads/files/HPLFinancial%20Management%20RFP%202023%20-%20FINAL%2011-13-23-combined.pdf",
-    rfpTitle: "Investment Consultant RFP (November 2023)"
+    rfpTitle: "Investment Consultant RFP (November 2023)",
+    imFees: 95134
   },
   {
     name: "Community Foundation of Grant County, Indiana",
@@ -257,7 +273,8 @@ window.ENDOWMENTS = [
     deadline: null,
     discretion: "unknown",
     rfpUrl: "https://givetogrant.org/investment-consultant-rfp/",
-    rfpTitle: "Investment Consultant RFP"
+    rfpTitle: "Investment Consultant RFP",
+    imFees: 42898
   },
   {
     name: "Community Foundation of South Puget Sound",
@@ -267,7 +284,8 @@ window.ENDOWMENTS = [
     deadline: "2023-09-08",
     discretion: "discretionary",
     rfpUrl: "https://cdn.prod.website-files.com/61ba5f3c620e0218524b1bc1/64c2c911bb0fe7afd8c11e48_2023%20RFP%20for%20Investment%20Management%20Services%20-%20Community%20Foundation%20of%20South%20Puget%20Sound%20(1).pdf",
-    rfpTitle: "Investment Management Services RFP (2023)"
+    rfpTitle: "Investment Management Services RFP (2023)",
+    imFees: 112081
   },
   {
     name: "California State University Channel Islands Foundation",
@@ -277,7 +295,8 @@ window.ENDOWMENTS = [
     deadline: "2025-06-03",
     discretion: "non-discretionary",
     rfpUrl: "https://media.governmentnavigator.com/media/bid/1744216266_2025-04-09_CI-264.pdf",
-    rfpTitle: "Investment Management Consulting Services (RFP CI-264, 2025)"
+    rfpTitle: "Investment Management Consulting Services (RFP CI-264, 2025)",
+    imFees: 483347
   },
   {
     name: "Samuel S. Fels Fund",
@@ -287,7 +306,8 @@ window.ENDOWMENTS = [
     deadline: "2026-02-13",
     discretion: "discretionary",
     rfpUrl: "http://www.samfels.org/wp-content/uploads/2026/01/Request-for-Proposal-RFP-for-Outsourced-Chief-Investment-Officer-OCIO-Services.pdf",
-    rfpTitle: "Outsourced Chief Investment Officer (OCIO) Services RFP"
+    rfpTitle: "Outsourced Chief Investment Officer (OCIO) Services RFP",
+    imFees: 173006
   },
   {
     name: "U.S. Civilian Research and Development Foundation (CRDF Global)",
@@ -307,7 +327,8 @@ window.ENDOWMENTS = [
     deadline: "2021-10-18",
     discretion: "discretionary",
     rfpUrl: "https://pasadena.edu/foundation/docs/rfp/RFP_Proposal.pdf",
-    rfpTitle: "Investment Management Consulting Services RFP (2021)"
+    rfpTitle: "Investment Management Consulting Services RFP (2021)",
+    imFees: 625049
   },
   {
     name: "Barberton Community Foundation",
@@ -317,7 +338,8 @@ window.ENDOWMENTS = [
     deadline: null,
     discretion: "unknown",
     rfpUrl: "https://barbertoncf.org/bcf-issues-rfp-for-investment-consultant-services/",
-    rfpTitle: "Investment Consultant Services RFP"
+    rfpTitle: "Investment Consultant Services RFP",
+    imFees: 158298
   },
   {
     name: "Central Connecticut State University Foundation",
@@ -357,7 +379,8 @@ window.ENDOWMENTS = [
     deadline: "2023-10-20",
     discretion: "both",
     rfpUrl: "https://www.cpp.edu/philanthropy/about/request-for-proposal-cal-poly-pomona-philanthropic-foundation.pdf",
-    rfpTitle: "Investment Consulting Services RFP"
+    rfpTitle: "Investment Consulting Services RFP",
+    imFees: 1120061
   },
   {
     name: "National Association of Attorneys General",
@@ -377,7 +400,8 @@ window.ENDOWMENTS = [
     deadline: "2025-09-15",
     discretion: "both",
     rfpUrl: "https://alaskacf.org/wp-content/uploads/2025/08/2025-Investment-Advisor-RFP-final.pdf",
-    rfpTitle: "2025 Investment Consulting Services RFP"
+    rfpTitle: "2025 Investment Consulting Services RFP",
+    imFees: 346832
   },
   {
     name: "Samuel Merritt University",
@@ -387,7 +411,8 @@ window.ENDOWMENTS = [
     deadline: "2021-11-05",
     discretion: "discretionary",
     rfpUrl: "https://www.samuelmerritt.edu/sites/default/files/2021-10/SMU%20Request%20for%20Proposals%20for%20Investment%20Advisory%20Services%20Oct%2014%202021.pdf",
-    rfpTitle: "Outsourced Chief Investment Officer (OCIO) Services RFP (2021)"
+    rfpTitle: "Outsourced Chief Investment Officer (OCIO) Services RFP (2021)",
+    imFees: 553404
   },
   {
     name: "Embrace Families, Inc.",
@@ -407,7 +432,8 @@ window.ENDOWMENTS = [
     deadline: "2024-05-17",
     discretion: "discretionary",
     rfpUrl: "https://www.chapinhall.org/wp-content/uploads/Chapin-Hall-CfC-Investment-Services-RFP-04152024.pdf",
-    rfpTitle: "Outsourced Investment Management (OCIO) RFP (April 2024)"
+    rfpTitle: "Outsourced Investment Management (OCIO) RFP (April 2024)",
+    imFees: 29321
   },
   {
     name: "St. Mary's College of Maryland Foundation",
@@ -427,7 +453,8 @@ window.ENDOWMENTS = [
     deadline: "2025-06-26",
     discretion: "unknown",
     rfpUrl: "https://www.bidnetdirect.com/utah/solicitations/open-bids/statewide/Investment-Management-Services-for-Salt-Lake-Community-College-s-Foundation-Funds/443543687781",
-    rfpTitle: "Investment Management Services for SLCC Foundation Funds (2025)"
+    rfpTitle: "Investment Management Services for SLCC Foundation Funds (2025)",
+    imFees: 111283
   },
   {
     name: "Gulf Coast State College Foundation",
@@ -437,7 +464,8 @@ window.ENDOWMENTS = [
     deadline: "2024-08-05",
     discretion: "unknown",
     rfpUrl: "https://www.bidnetdirect.com/florida/gulfcoaststatecollege/solicitations/RFP-12-2023-2024-Investment-Management-Services-for-GCSC-Foundation-Inc/0000353199",
-    rfpTitle: "Investment Management Services (RFP 12-2023/2024)"
+    rfpTitle: "Investment Management Services (RFP 12-2023/2024)",
+    imFees: 133231
   },
   {
     name: "Westfield State University Foundation",
@@ -447,7 +475,8 @@ window.ENDOWMENTS = [
     deadline: null,
     discretion: "unknown",
     rfpUrl: "https://www.bidnetdirect.com/public/supplier/solicitations/statewide/443111882483/abstract",
-    rfpTitle: "Investment Management Services (RFP 2024-018)"
+    rfpTitle: "Investment Management Services (RFP 2024-018)",
+    imFees: 41203
   },
   {
     name: "Lewis-Clark State College Foundation",
@@ -467,7 +496,8 @@ window.ENDOWMENTS = [
     deadline: null,
     discretion: "unknown",
     rfpUrl: null,
-    rfpTitle: "Investment Consultant RFP (March 2021)"
+    rfpTitle: "Investment Consultant RFP (March 2021)",
+    imFees: 115301
   },
   {
     name: "Community Foundation of Harford County",
@@ -477,7 +507,8 @@ window.ENDOWMENTS = [
     deadline: null,
     discretion: "unknown",
     rfpUrl: null,
-    rfpTitle: "Investment Manager RFP (July 2019)"
+    rfpTitle: "Investment Manager RFP (July 2019)",
+    imFees: 9658
   },
   {
     name: "Imperial Valley Community Foundation",
@@ -487,7 +518,8 @@ window.ENDOWMENTS = [
     deadline: "2014-10-31",
     discretion: "unknown",
     rfpUrl: null,
-    rfpTitle: "Investment Advisor Services RFP (2014)"
+    rfpTitle: "Investment Advisor Services RFP (2014)",
+    imFees: 85222
   },
   {
     name: "Hudson River Park Trust",
@@ -537,7 +569,8 @@ window.ENDOWMENTS = [
     deadline: null,
     discretion: "unknown",
     rfpUrl: "https://codfoundation.org/financial-information/",
-    rfpTitle: "RFP for Investment Management Services (July 2024)"
+    rfpTitle: "RFP for Investment Management Services (July 2024)",
+    imFees: 278691
   },
   {
     name: "American Indian Higher Education Consortium (AIHEC)",
@@ -547,7 +580,8 @@ window.ENDOWMENTS = [
     deadline: "2024-10-21",
     discretion: "unknown",
     rfpUrl: "https://rfpdb.com/process/download/name/AIHEC-RFP-Investment-2024.pdf",
-    rfpTitle: "Request for Proposal - Investment Advisory Services (2024)"
+    rfpTitle: "Request for Proposal - Investment Advisory Services (2024)",
+    imFees: 92729
   },
   {
     name: "UNLV Foundation",
@@ -567,7 +601,8 @@ window.ENDOWMENTS = [
     deadline: "2025-01-24",
     discretion: "non-discretionary",
     rfpUrl: "https://www.pionline.com/searches-and-hires/northern-michigan-university-foundation-lookout-investment-consultant",
-    rfpTitle: "Investment Consulting Services RFP (issued Dec 2024; proposals due Jan 24, 2025)"
+    rfpTitle: "Investment Consulting Services RFP (issued Dec 2024; proposals due Jan 24, 2025)",
+    imFees: 133850
   },
   {
     name: "Delaware State University (Endowment)",
@@ -577,7 +612,8 @@ window.ENDOWMENTS = [
     deadline: null,
     discretion: "non-discretionary",
     rfpUrl: "https://www.pionline.com/searches-hires-mandates/pi-delaware-state-university-investment-consultant-rfp-february-2026/",
-    rfpTitle: "Investment Consultant RFP (issued February 2026)"
+    rfpTitle: "Investment Consultant RFP (issued February 2026)",
+    imFees: 100633
   },
   {
     name: "Ohio University Foundation",
@@ -587,7 +623,8 @@ window.ENDOWMENTS = [
     deadline: null,
     discretion: "non-discretionary",
     rfpUrl: "https://www.pionline.com/searches-and-hires/ohio-university-foundation-seeks-investment-consultants-endowment/",
-    rfpTitle: "Investment Consultants for Endowment (RFP issued Jan 2024)"
+    rfpTitle: "Investment Consultants for Endowment (RFP issued Jan 2024)",
+    imFees: 3521308
   },
   {
     name: "Broward College Foundation",
@@ -597,7 +634,8 @@ window.ENDOWMENTS = [
     deadline: "2025-05-20",
     discretion: "both",
     rfpUrl: "https://www.bidnetdirect.com/florida/solicitations/open-bids/statewide/BC-FOUNDATION-INVESTMENT-OVERSIGHT-FOUNDATION-SERVICES/443491468498",
-    rfpTitle: "BC Foundation Investment Oversight Management Services (posted April 24, 2025)"
+    rfpTitle: "BC Foundation Investment Oversight Management Services (posted April 24, 2025)",
+    imFees: 209078
   },
   {
     name: "Finance Authority of Maine (FAME)",
@@ -647,7 +685,8 @@ window.ENDOWMENTS = [
     deadline: "2025-09-19",
     discretion: "non-discretionary",
     rfpUrl: "https://www.pionline.com/searches-hires-mandates/pi-south-puget-sound-community-college-foundation-investment-manager-august-2025-rfp/",
-    rfpTitle: "Investment Manager RFP - Foundation Investment Portfolio"
+    rfpTitle: "Investment Manager RFP - Foundation Investment Portfolio",
+    imFees: 71618
   },
   {
     name: "Florida A&M University Foundation",
@@ -667,7 +706,8 @@ window.ENDOWMENTS = [
     deadline: null,
     discretion: "non-discretionary",
     rfpUrl: "https://www.pionline.com/searches-and-hires/university-new-hampshire-foundation-seeks-investment-consultant-endowment/",
-    rfpTitle: "Investment Consultant RFP for Endowment"
+    rfpTitle: "Investment Consultant RFP for Endowment",
+    imFees: 2770843
   },
   {
     name: "Fresno Regional Foundation",
@@ -687,7 +727,8 @@ window.ENDOWMENTS = [
     deadline: null,
     discretion: "discretionary",
     rfpUrl: "https://www.pionline.com/searches-and-hires/nathan-cummings-foundation-goes-ocio-route-its-endowment",
-    rfpTitle: "OCIO RFP - Mission-Aligned Endowment Management"
+    rfpTitle: "OCIO RFP - Mission-Aligned Endowment Management",
+    imFees: 3153874
   },
   {
     name: "Denver Foundation",
@@ -697,7 +738,8 @@ window.ENDOWMENTS = [
     deadline: null,
     discretion: "non-discretionary",
     rfpUrl: "https://www.pionline.com/searches-and-hires/denver-foundation-searching-investment-consultant/",
-    rfpTitle: "Investment Consultant RFP"
+    rfpTitle: "Investment Consultant RFP",
+    imFees: 7697911
   },
   {
     name: "Florida A&M University Foundation (OCIO switch)",

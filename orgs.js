@@ -370,8 +370,8 @@ window.ORGANIZATIONS = [
     "city": "Athens",
     "state": "OH",
     "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/316402269",
-    "existingIM": null,
-    "imFees": null,
+    "existingIM": true,
+    "imFees": 3521308,
     "imProviders": null,
     "website": "https://www.ohio.edu/foundation"
   },
@@ -2025,8 +2025,8 @@ window.ORGANIZATIONS = [
     "city": "Durham",
     "state": "NH",
     "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/20437506",
-    "existingIM": null,
-    "imFees": null,
+    "existingIM": true,
+    "imFees": 2770843,
     "imProviders": null,
     "website": "https://www.unh.edu/foundation"
   },
@@ -5903,7 +5903,7 @@ window.ORGANIZATIONS = [
     "state": "CA",
     "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/770433230",
     "existingIM": true,
-    "imFees": null,
+    "imFees": 483347,
     "imProviders": null
   },
   {
@@ -6854,8 +6854,8 @@ window.ORGANIZATIONS = [
     "city": "Marquette",
     "state": "MI",
     "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/237034523",
-    "existingIM": null,
-    "imFees": null,
+    "existingIM": true,
+    "imFees": 133850,
     "imProviders": null
   },
   {
@@ -14922,8 +14922,8 @@ window.ORGANIZATIONS = [
     "city": "Westfield",
     "state": "MA",
     "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/42701694",
-    "existingIM": null,
-    "imFees": null,
+    "existingIM": true,
+    "imFees": 41203,
     "imProviders": null
   },
   {
@@ -17330,8 +17330,8 @@ window.ORGANIZATIONS = [
     "city": "Frankfort",
     "state": "KY",
     "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/237351574",
-    "existingIM": null,
-    "imFees": null,
+    "existingIM": true,
+    "imFees": 95092,
     "imProviders": null
   },
   {

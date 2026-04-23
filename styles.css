@@ -67,6 +67,11 @@ header {
 .fees, .providers {
   font-variant-numeric: tabular-nums;
 }
+.fees .bps {
+  color: var(--muted);
+  font-size: 12px;
+  margin-left: 4px;
+}
 .providers {
   font-size: 13px;
   color: var(--muted);

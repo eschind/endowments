@@ -26,6 +26,13 @@
     return `$${n.toLocaleString()}`;
   };
 
+  const formatFeesWithBps = (fees, aum) => {
+    const base = formatFees(fees);
+    if (fees == null || !aum) return base;
+    const bps = Math.round((fees / aum) * 10000);
+    return `${base} <span class="bps">(${bps}bps)</span>`;
+  };
+
   const formatDeadline = (d) => {
     if (!d) return "\u2014";
     const date = new Date(d + "T00:00:00");
@@ -201,6 +208,10 @@
         }
         // an RFP implies existing IM relationship (or intent to establish one)
         existing.existingIM = true;
+        // merge imFees from RFP record when orgs.js entry lacks them
+        if (r.imFees != null && existing.imFees == null) {
+          existing.imFees = r.imFees;
+        }
       }
     }
     return Array.from(map.values());
@@ -269,7 +280,7 @@
         <td class="description">${escapeHtml(o.description)}</td>
         <td class="aum">${formatAUM(o.aum)}</td>
         <td><span class="yesno-badge yesno-${existing}">${existing}</span></td>
-        <td class="fees">${formatFees(o.imFees)}</td>
+        <td class="fees">${formatFeesWithBps(o.imFees, o.aum)}</td>
         <td class="providers">${providers}</td>
       `;
       orgEls.tbody.appendChild(tr);
