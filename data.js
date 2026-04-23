@@ -558,5 +558,85 @@ window.ENDOWMENTS = [
     discretion: "non-discretionary",
     rfpUrl: "https://rfpdb.com/process/download/name/Investment-management-advisor.pdf",
     rfpTitle: "Investment Advisory and Consulting Services RFP"
+  },
+  {
+    name: "Northern Michigan University Foundation",
+    type: "University",
+    description: "Foundation in Marquette, MI supporting Northern Michigan University through endowed scholarships and programmatic gifts; manages ~$69M investment portfolio including ~$50M endowment.",
+    aum: 85717144,
+    deadline: "2025-01-24",
+    discretion: "non-discretionary",
+    rfpUrl: "https://www.pionline.com/searches-and-hires/northern-michigan-university-foundation-lookout-investment-consultant",
+    rfpTitle: "Investment Consulting Services RFP (issued Dec 2024; proposals due Jan 24, 2025)"
+  },
+  {
+    name: "Delaware State University (Endowment)",
+    type: "University",
+    description: "Dover-based HBCU and land-grant university; endowment valued around $39M with contract with incumbent investment consultant expiring, triggering new RFP.",
+    aum: 39000000,
+    deadline: null,
+    discretion: "non-discretionary",
+    rfpUrl: "https://www.pionline.com/searches-hires-mandates/pi-delaware-state-university-investment-consultant-rfp-february-2026/",
+    rfpTitle: "Investment Consultant RFP (issued February 2026)"
+  },
+  {
+    name: "Ohio University Foundation",
+    type: "University",
+    description: "Athens, Ohio foundation serving as repository for private gifts supporting Ohio University; holds ~$447M in donor-restricted endowments plus ~$148M board-designated quasi-endowment (FY2024).",
+    aum: 595000000,
+    deadline: null,
+    discretion: "non-discretionary",
+    rfpUrl: "https://www.pionline.com/searches-and-hires/ohio-university-foundation-seeks-investment-consultants-endowment/",
+    rfpTitle: "Investment Consultants for Endowment (RFP issued Jan 2024)"
+  },
+  {
+    name: "Broward College Foundation",
+    type: "University",
+    description: "Fort Lauderdale, FL 501(c)(3) foundation supporting Broward College; Board of Trustees revamped foundation governance in 2025 after investment losses, prompting new oversight RFP.",
+    aum: 138973140,
+    deadline: "2025-05-20",
+    discretion: "both",
+    rfpUrl: "https://www.bidnetdirect.com/florida/solicitations/open-bids/statewide/BC-FOUNDATION-INVESTMENT-OVERSIGHT-FOUNDATION-SERVICES/443491468498",
+    rfpTitle: "BC Foundation Investment Oversight Management Services (posted April 24, 2025)"
+  },
+  {
+    name: "Finance Authority of Maine (FAME)",
+    type: "Other",
+    description: "Augusta, ME quasi-governmental agency providing business and education financing; holds ~$180M in investment assets across Vanguard Growth Fund and State of Maine Treasurer's Cash Pool.",
+    aum: 180000000,
+    deadline: "2026-01-23",
+    discretion: "non-discretionary",
+    rfpUrl: "https://www.famemaine.com/fame_news/request-for-proposals-investment-advisory-services/",
+    rfpTitle: "Request for Proposals - Investment Advisory Services (posted Dec 8, 2025; due Jan 23, 2026)"
+  },
+  {
+    name: "HealthierHere",
+    type: "Public Health",
+    description: "Seattle/King County, WA non-profit Accountable Community of Health working to reduce health disparities; holds ~$50M reserve for operations and strategic investments.",
+    aum: 50000000,
+    deadline: "2025-10-10",
+    discretion: "non-discretionary",
+    rfpUrl: "https://cdn.prod.website-files.com/6320ef40bca4da1243595bfe/68c435267f78822f24f79596_Request%20for%20Proposal_Investment%20Services.pdf",
+    rfpTitle: "Request for Proposal - Investment Services (issued Oct 2025)"
+  },
+  {
+    name: "Houston-Galveston Area Council (H-GAC)",
+    type: "Other",
+    description: "Regional council of governments covering the 13-county Houston-Galveston region in Texas; manages operating funds under formal Investment Policy with quarterly review.",
+    aum: null,
+    deadline: "2025-06-05",
+    discretion: "non-discretionary",
+    rfpUrl: "https://media.governmentnavigator.com/media/bid/1744738402_2025-04-15_RFP-FI-INVES-04-25.pdf",
+    rfpTitle: "RFP-FI-INVES-04-25 Investment Advisory Services (released April 14, 2025)"
+  },
+  {
+    name: "Native American Finance Officers Association (NAFOA)",
+    type: "Other",
+    description: "Washington, DC-based national non-profit (est. 1982) supporting tribal economies through policy advocacy and finance education; issued investment consultant RFP for its endowment in May 2025.",
+    aum: null,
+    deadline: null,
+    discretion: "unknown",
+    rfpUrl: "https://www.pionline.com/searches-and-hires/native-american-finance-officers-association-lookout-investment-consultant",
+    rfpTitle: "Investment Consultant RFP for NAFOA endowment (issued May 2025)"
   }
 ];
