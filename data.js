@@ -638,5 +638,75 @@ window.ENDOWMENTS = [
     discretion: "unknown",
     rfpUrl: "https://www.pionline.com/searches-and-hires/native-american-finance-officers-association-lookout-investment-consultant",
     rfpTitle: "Investment Consultant RFP for NAFOA endowment (issued May 2025)"
+  },
+  {
+    name: "South Puget Sound Community College Foundation",
+    type: "University",
+    description: "Nonprofit foundation supporting South Puget Sound Community College in Olympia, WA, with a $17M investment portfolio including $10M in endowment funds.",
+    aum: 17000000,
+    deadline: "2025-09-19",
+    discretion: "non-discretionary",
+    rfpUrl: "https://www.pionline.com/searches-hires-mandates/pi-south-puget-sound-community-college-foundation-investment-manager-august-2025-rfp/",
+    rfpTitle: "Investment Manager RFP - Foundation Investment Portfolio"
+  },
+  {
+    name: "Florida A&M University Foundation",
+    type: "University",
+    description: "Fundraising foundation for Florida A&M University in Tallahassee. Issued an RFP for an Outsourced Chief Investment Officer with discretionary authority over its investment portfolio of approximately $118M.",
+    aum: 118000000,
+    deadline: "2020-09-16",
+    discretion: "discretionary",
+    rfpUrl: "https://www.pionline.com/searches-and-hires/florida-am-foundation-looking-ocio",
+    rfpTitle: "Outsourced Chief Investment Officer (OCIO) Search"
+  },
+  {
+    name: "University of New Hampshire Foundation",
+    type: "University",
+    description: "Foundation supporting the University of New Hampshire endowment. Issued RFP for investment consultant to advise on endowment asset allocation and manager selection.",
+    aum: null,
+    deadline: null,
+    discretion: "non-discretionary",
+    rfpUrl: "https://www.pionline.com/searches-and-hires/university-new-hampshire-foundation-seeks-investment-consultant-endowment/",
+    rfpTitle: "Investment Consultant RFP for Endowment"
+  },
+  {
+    name: "Fresno Regional Foundation",
+    type: "Community",
+    description: "Community foundation serving Fresno, CA. Issued RFP seeking an investment consultant for its endowment portfolio.",
+    aum: null,
+    deadline: null,
+    discretion: "non-discretionary",
+    rfpUrl: "https://www.pionline.com/article/20150916/ONLINE/150919916/fresno-regional-foundation-seeking-investment-consultant",
+    rfpTitle: "Investment Consultant RFP"
+  },
+  {
+    name: "Nathan Cummings Foundation",
+    type: "Private Foundation",
+    description: "New York-based private foundation advancing racial, environmental, and economic justice. Issued RFP for OCIO to manage its endowment and co-create a mission-aligned investment strategy.",
+    aum: 450000000,
+    deadline: null,
+    discretion: "discretionary",
+    rfpUrl: "https://www.pionline.com/searches-and-hires/nathan-cummings-foundation-goes-ocio-route-its-endowment",
+    rfpTitle: "OCIO RFP - Mission-Aligned Endowment Management"
+  },
+  {
+    name: "Denver Foundation",
+    type: "Community",
+    description: "Community foundation serving metro Denver since 1925. Issued RFP seeking investment consultant to advise the investment committee.",
+    aum: 950000000,
+    deadline: null,
+    discretion: "non-discretionary",
+    rfpUrl: "https://www.pionline.com/searches-and-hires/denver-foundation-searching-investment-consultant/",
+    rfpTitle: "Investment Consultant RFP"
+  },
+  {
+    name: "Florida A&M University Foundation (OCIO switch)",
+    type: "University",
+    description: "Subsequent FAMU Foundation OCIO RFP / switch that resulted in hiring Disciplina Group. $164M foundation.",
+    aum: 164000000,
+    deadline: null,
+    discretion: "discretionary",
+    rfpUrl: "https://www.pionline.com/searches-and-hires/florida-am-university-foundation-switches-its-ocio",
+    rfpTitle: "OCIO Reconfirmation / Switch"
   }
 ];
