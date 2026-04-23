@@ -488,5 +488,75 @@ window.ENDOWMENTS = [
     discretion: "unknown",
     rfpUrl: null,
     rfpTitle: "Investment Advisor Services RFP (2014)"
+  },
+  {
+    name: "Hudson River Park Trust",
+    type: "Other",
+    description: "New York State public benefit corporation managing the 550-acre Hudson River Park on Manhattan's West Side; maintains restricted and reserve funds for park operations and capital needs.",
+    aum: 50000000,
+    deadline: "2025-11-03",
+    discretion: "non-discretionary",
+    rfpUrl: "https://hudsonriverpark.org/app/uploads/2025/09/RFP-F5400_Investment-Advisory-Services.pdf",
+    rfpTitle: "Investment Advisory Services (Contract No. F5400)"
+  },
+  {
+    name: "Kiowa Tribe",
+    type: "Other",
+    description: "Federally recognized Native American tribe headquartered in Carnegie, Oklahoma; establishing three tribal financial accounts (Permanent Fund, Stabilization Fund, Investment Grade Plus Fund) funded from gaming operations.",
+    aum: null,
+    deadline: "2026-01-30",
+    discretion: "both",
+    rfpUrl: "https://www.kiowatribe.org/sites/default/files/inline-files/RFP-KT-25-003-EX%20Investment%20Management%20Services.pdf",
+    rfpTitle: "RFP-KT-25-003-EX Investment Management Services"
+  },
+  {
+    name: "County of Monroe Industrial Development Agency (COMIDA)",
+    type: "Other",
+    description: "Public benefit corporation in Rochester, NY promoting economic development in Monroe County; manages a ~$15M reserve and operating portfolio.",
+    aum: 15000000,
+    deadline: "2024-03-01",
+    discretion: "non-discretionary",
+    rfpUrl: "https://monroecountybusiness.org/wp-content/uploads/COMIDA-RFP-Investment-Services.pdf",
+    rfpTitle: "Request for Proposals - Investment Management Services (2024)"
+  },
+  {
+    name: "Suffolk County Vanderbilt Museum Endowment Trust Fund",
+    type: "Arts",
+    description: "Endowment trust supporting the Suffolk County Vanderbilt Museum & Planetarium in Centerport, NY, funded under the William K. Vanderbilt II bequest and administered by Suffolk County.",
+    aum: 21000000,
+    deadline: null,
+    discretion: "non-discretionary",
+    rfpUrl: "https://www.scnylegislature.us/DocumentCenter/View/121133/03262025-Vanderbilt-Museum-Endowment-Trust-Fund-Annual-Report-for-2024-PDF",
+    rfpTitle: "Investment Advisor RFP issued Feb 27, 2025 (term 2025-2029) - documented in Trust Fund Annual Report"
+  },
+  {
+    name: "College of the Desert Foundation",
+    type: "University",
+    description: "501(c)(3) foundation supporting College of the Desert, a public community college in Palm Desert, CA, serving the Coachella Valley.",
+    aum: 22000000,
+    deadline: null,
+    discretion: "unknown",
+    rfpUrl: "https://codfoundation.org/financial-information/",
+    rfpTitle: "RFP for Investment Management Services (July 2024)"
+  },
+  {
+    name: "American Indian Higher Education Consortium (AIHEC)",
+    type: "Other",
+    description: "Nonprofit membership association of the 37 Tribal Colleges and Universities in the U.S.; advocates for and supports Tribal higher education nationwide.",
+    aum: null,
+    deadline: "2024-10-21",
+    discretion: "unknown",
+    rfpUrl: "https://rfpdb.com/process/download/name/AIHEC-RFP-Investment-2024.pdf",
+    rfpTitle: "Request for Proposal - Investment Advisory Services (2024)"
+  },
+  {
+    name: "UNLV Foundation",
+    type: "University",
+    description: "Nonprofit foundation supporting the University of Nevada, Las Vegas, through private philanthropy; manages the UNLV endowment and non-endowed funds.",
+    aum: 480000000,
+    deadline: null,
+    discretion: "non-discretionary",
+    rfpUrl: "https://rfpdb.com/process/download/name/Investment-management-advisor.pdf",
+    rfpTitle: "Investment Advisory and Consulting Services RFP"
   }
 ];

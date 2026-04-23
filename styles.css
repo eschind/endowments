@@ -19,9 +19,57 @@ body {
 }
 
 header {
-  padding: 32px 40px 16px;
+  padding: 32px 40px 0;
   background: var(--surface);
   border-bottom: 1px solid var(--border);
+}
+
+.tabs {
+  display: flex;
+  gap: 4px;
+  margin-top: 20px;
+}
+
+.tab-btn {
+  background: transparent;
+  border: none;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--muted);
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  font-family: inherit;
+}
+
+.tab-btn:hover { color: var(--text); }
+
+.tab-btn.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.yesno-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.yesno-badge.yesno-yes     { background: #dff5e4; color: #1a6a35; }
+.yesno-badge.yesno-no      { background: #fbe4e4; color: #8a1e2c; }
+.yesno-badge.yesno-unknown { background: #ececec; color: #6b6b6b; }
+
+.fees, .providers {
+  font-variant-numeric: tabular-nums;
+}
+.providers {
+  font-size: 13px;
+  color: var(--muted);
 }
 
 header h1 {
@@ -245,6 +293,13 @@ tbody tr:hover { background: #fafafa; }
   font-style: italic;
   font-size: 13px;
 }
+
+.org-link {
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 600;
+}
+.org-link:hover { color: var(--accent); text-decoration: underline; }
 
 .empty-state {
   text-align: center;
