@@ -160,12 +160,17 @@
 
   // ---------- Organizations tab ----------
 
-  const normalizeName = (s) =>
-    String(s || "")
+  const normalizeName = (s) => {
+    let n = String(s || "")
       .toLowerCase()
       .replace(/[\u2014\u2013]/g, "-")
       .replace(/[^a-z0-9]+/g, " ")
       .trim();
+    // strip common corporate suffixes that cause spurious distinctions
+    n = n.replace(/^(the) /, "");
+    n = n.replace(/ (inc|incorporated|corp|corporation|llc)$/, "");
+    return n.trim();
+  };
 
   // Merge ORGANIZATIONS (ProPublica-scraped) with orgs that only appear in the RFP dataset.
   // Also derive existingIM=true whenever an org has a matching RFP.

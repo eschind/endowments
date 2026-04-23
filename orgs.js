@@ -345,6 +345,22 @@ window.ORGANIZATIONS = [
     "website": "https://mather.org"
   },
   {
+    "name": "Maine Community Foundation Inc",
+    "type": "Community",
+    "description": "Nonprofit based in Ellsworth, ME.",
+    "aum": 732240535,
+    "ein": "010391479",
+    "ntee_code": "T310",
+    "city": "Ellsworth",
+    "state": "ME",
+    "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/10391479",
+    "existingIM": true,
+    "imFees": null,
+    "imProviders": [
+      "Prime Buchholz"
+    ]
+  },
+  {
     "name": "Ohio University Foundation",
     "type": "University",
     "description": "A 501(c)(3) established in 1945 that serves as the repository for all private gifts to Ohio University, managing donations and endowments to support scholarships, research, and faculty development.",
@@ -535,6 +551,22 @@ window.ORGANIZATIONS = [
     "existingIM": null,
     "imFees": null,
     "imProviders": null
+  },
+  {
+    "name": "The Community Foundation For Northeast Florida Inc",
+    "type": "Community",
+    "description": "Nonprofit based in Jacksonville, FL.",
+    "aum": 655396947,
+    "ein": "596150746",
+    "ntee_code": "T310",
+    "city": "Jacksonville",
+    "state": "FL",
+    "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/596150746",
+    "existingIM": true,
+    "imFees": null,
+    "imProviders": [
+      "Crewcial Partners"
+    ]
   },
   {
     "name": "Pinkerton Foundation",
@@ -798,9 +830,11 @@ window.ORGANIZATIONS = [
     "city": "Dayton",
     "state": "OH",
     "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/316027287",
-    "existingIM": null,
+    "existingIM": true,
     "imFees": null,
-    "imProviders": null,
+    "imProviders": [
+      "Fund Evaluation Group (FEG)"
+    ],
     "website": "https://www.daytonfoundation.org"
   },
   {
@@ -1068,6 +1102,22 @@ window.ORGANIZATIONS = [
     "existingIM": null,
     "imFees": null,
     "imProviders": null
+  },
+  {
+    "name": "Greater Washington Community Foundation",
+    "type": "Community",
+    "description": "Nonprofit based in Washington, DC.",
+    "aum": 477271238,
+    "ein": "237343119",
+    "ntee_code": "T310",
+    "city": "Washington",
+    "state": "DC",
+    "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/237343119",
+    "existingIM": true,
+    "imFees": null,
+    "imProviders": [
+      "SEI Investments"
+    ]
   },
   {
     "name": "Climateworks Foundation",
@@ -1487,6 +1537,22 @@ window.ORGANIZATIONS = [
     "imProviders": null
   },
   {
+    "name": "University Of Maine Foundation",
+    "type": "University",
+    "description": "Nonprofit based in Orono, ME.",
+    "aum": 390581135,
+    "ein": "016011501",
+    "ntee_code": "B110",
+    "city": "Orono",
+    "state": "ME",
+    "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/16011501",
+    "existingIM": true,
+    "imFees": null,
+    "imProviders": [
+      "Prime Buchholz"
+    ]
+  },
+  {
     "name": "Heritage Foundation",
     "type": "Other",
     "description": "Washington, DC\u2013based conservative public policy think tank (est. 1973) that formulates and promotes conservative public policies based on the principles of free enterprise, limited government, and individual freedom.",
@@ -1526,9 +1592,11 @@ window.ORGANIZATIONS = [
     "city": "Denver",
     "state": "CO",
     "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/840920862",
-    "existingIM": null,
+    "existingIM": true,
     "imFees": null,
-    "imProviders": null,
+    "imProviders": [
+      "Cambridge Associates"
+    ],
     "website": "https://rcfdenver.org"
   },
   {
@@ -2083,6 +2151,22 @@ window.ORGANIZATIONS = [
     "website": "https://www.katalyfoundation.org"
   },
   {
+    "name": "Charlottesville Area Community Foundation",
+    "type": "Community",
+    "description": "Nonprofit based in Charlottesvle, VA.",
+    "aum": 297514304,
+    "ein": "541506312",
+    "ntee_code": "T310",
+    "city": "Charlottesvle",
+    "state": "VA",
+    "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/541506312",
+    "existingIM": true,
+    "imFees": null,
+    "imProviders": [
+      "Fund Evaluation Group (FEG)"
+    ]
+  },
+  {
     "name": "Opas Foundation",
     "type": "Arts",
     "description": "A private foundation based in Omaha, NE; no public website or published mission statement.",
@@ -2241,6 +2325,22 @@ window.ORGANIZATIONS = [
     "existingIM": null,
     "imFees": null,
     "imProviders": null
+  },
+  {
+    "name": "Community Foundation Of Greater Flint",
+    "type": "Community",
+    "description": "Nonprofit based in Flint, MI.",
+    "aum": 279537956,
+    "ein": "382190667",
+    "ntee_code": "T310",
+    "city": "Flint",
+    "state": "MI",
+    "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/382190667",
+    "existingIM": true,
+    "imFees": null,
+    "imProviders": [
+      "Crewcial Partners"
+    ]
   },
   {
     "name": "Chestnut Family Foundation",
@@ -2943,6 +3043,22 @@ window.ORGANIZATIONS = [
     "imProviders": null
   },
   {
+    "name": "Greater Cedar Rapids Community Foundation",
+    "type": "Community",
+    "description": "Nonprofit based in Cedar Rapids, IA.",
+    "aum": 212302246,
+    "ein": "426053860",
+    "ntee_code": "T31",
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/426053860",
+    "existingIM": true,
+    "imFees": null,
+    "imProviders": [
+      "Fund Evaluation Group (FEG)"
+    ]
+  },
+  {
     "name": "Weissberg Foundation",
     "type": "Other",
     "description": "Nonprofit based in Mclean, VA.",
@@ -3067,6 +3183,22 @@ window.ORGANIZATIONS = [
     "existingIM": null,
     "imFees": null,
     "imProviders": null
+  },
+  {
+    "name": "Sierra Club Foundation",
+    "type": "Other",
+    "description": "Nonprofit based in Oakland, CA.",
+    "aum": 199302924,
+    "ein": "946069890",
+    "ntee_code": "C300",
+    "city": "Oakland",
+    "state": "CA",
+    "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/946069890",
+    "existingIM": true,
+    "imFees": null,
+    "imProviders": [
+      "Fund Evaluation Group (FEG)"
+    ]
   },
   {
     "name": "Fondren Foundation",
@@ -3305,6 +3437,22 @@ window.ORGANIZATIONS = [
     "existingIM": null,
     "imFees": null,
     "imProviders": null
+  },
+  {
+    "name": "Quad Cities Community Foundation",
+    "type": "Community",
+    "description": "Nonprofit based in Bettendorf, IA.",
+    "aum": 184908606,
+    "ein": "426122716",
+    "ntee_code": "T310",
+    "city": "Bettendorf",
+    "state": "IA",
+    "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/426122716",
+    "existingIM": true,
+    "imFees": null,
+    "imProviders": [
+      "Fund Evaluation Group (FEG)"
+    ]
   },
   {
     "name": "University Of West Florida Foundation Inc",
@@ -4719,6 +4867,22 @@ window.ORGANIZATIONS = [
     "existingIM": null,
     "imFees": null,
     "imProviders": null
+  },
+  {
+    "name": "Berks County Community Foundation Inc",
+    "type": "Community",
+    "description": "Nonprofit based in Reading, PA.",
+    "aum": 123855597,
+    "ein": "232769892",
+    "ntee_code": "T31",
+    "city": "Reading",
+    "state": "PA",
+    "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/232769892",
+    "existingIM": true,
+    "imFees": null,
+    "imProviders": [
+      "Fund Evaluation Group (FEG)"
+    ]
   },
   {
     "name": "Hildebrand Foundation",
@@ -10055,6 +10219,22 @@ window.ORGANIZATIONS = [
     "imProviders": null
   },
   {
+    "name": "Catholic Education Foundation Inc",
+    "type": "University",
+    "description": "Nonprofit based in Louisville, KY.",
+    "aum": 40294480,
+    "ein": "611294640",
+    "ntee_code": "B82Z",
+    "city": "Louisville",
+    "state": "KY",
+    "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/611294640",
+    "existingIM": true,
+    "imFees": null,
+    "imProviders": [
+      "Fund Evaluation Group (FEG)"
+    ]
+  },
+  {
     "name": "Sams Foundation",
     "type": "Public Health",
     "description": "Health-sector nonprofit based in Washington, DC.",
@@ -11229,6 +11409,22 @@ window.ORGANIZATIONS = [
     "existingIM": null,
     "imFees": null,
     "imProviders": null
+  },
+  {
+    "name": "Community Foundation Of Central Wisconsin Inc",
+    "type": "Community",
+    "description": "Nonprofit based in Stevens Point, WI.",
+    "aum": 33449242,
+    "ein": "390827885",
+    "ntee_code": "T31",
+    "city": "Stevens Point",
+    "state": "WI",
+    "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/390827885",
+    "existingIM": true,
+    "imFees": null,
+    "imProviders": [
+      "Fund Evaluation Group (FEG)"
+    ]
   },
   {
     "name": "Adrienne Helis Malvin Medical Research Foundation",
@@ -23563,5 +23759,37 @@ window.ORGANIZATIONS = [
     "existingIM": null,
     "imFees": null,
     "imProviders": null
+  },
+  {
+    "name": "The East Boston Foundation",
+    "type": "Community",
+    "description": "Nonprofit based in East Boston, MA.",
+    "aum": 1483126,
+    "ein": "311601979",
+    "ntee_code": "T30Z",
+    "city": "East Boston",
+    "state": "MA",
+    "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/311601979",
+    "existingIM": true,
+    "imFees": null,
+    "imProviders": [
+      "Prime Buchholz"
+    ]
+  },
+  {
+    "name": "Cotsen Foundation For Academic Research",
+    "type": "Arts",
+    "description": "Nonprofit based in Los Angeles, CA.",
+    "aum": 459209,
+    "ein": "020794202",
+    "ntee_code": "A50",
+    "city": "Los Angeles",
+    "state": "CA",
+    "propublicaUrl": "https://projects.propublica.org/nonprofits/organizations/20794202",
+    "existingIM": true,
+    "imFees": null,
+    "imProviders": [
+      "J.P. Morgan"
+    ]
   }
 ];
